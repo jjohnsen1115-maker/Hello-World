@@ -24,3 +24,9 @@ This is the place I will put my coding/programming projects including the deffer
 ## How to run program
 
 ## Additional information
+
+  **BOLD** text
+  *Italics* text
+  ~~Strikethrough~~ text
+  ***Bold and Italics***
+
